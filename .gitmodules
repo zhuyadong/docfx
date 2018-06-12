@@ -1,0 +1,6 @@
+[submodule "plugins/Microsoft.DocAsCode.Build.Graph/PlantUml.Net"]
+	path = plugins/Microsoft.DocAsCode.Build.Graph/PlantUml.Net
+	url = https://github.com/zhuyadong/PlantUml.Net.git
+[submodule "plugins/Microsoft.DocAsCode.Build.Graph/DocFx.Plugins.PlantUml"]
+	path = plugins/Microsoft.DocAsCode.Build.Graph/DocFx.Plugins.PlantUml
+	url = https://github.com/zhuyadong/DocFx.Plugins.PlantUml.git
